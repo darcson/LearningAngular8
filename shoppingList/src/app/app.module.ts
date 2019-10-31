@@ -27,7 +27,7 @@ import { RecipeDetailComponent } from './header/recipeBookContainer/recipeDetail
   ],
   imports: [
     BrowserModule,
-    FormsModule,
+    FormsModule
     //HttpModule
   ],
   providers: [],
