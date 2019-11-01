@@ -6,7 +6,6 @@ import { Component, OnInit } from '@angular/core';
 })
 
 export class RecipeBookContainerComponent implements OnInit {
-    recipes = [];
     constructor() { }
 
     ngOnInit() { }
